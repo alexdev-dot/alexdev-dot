@@ -1,48 +1,74 @@
-# 👋 Hi, I'm Alex
+# Alex Kariuki
 
-💻 Full-Stack Developer passionate about building modern, user-friendly web applications.
+**Software Developer | Full-Stack Web Development**
 
----
+I build web applications and software products with a focus on practical functionality, clean interfaces, and reliable backend systems.
 
-## 🚀 About Me
-- 🌍 Based in Kenya  
-- ⚡ I build scalable and responsive web apps  
-- 🎯 Focused on clean code, performance, and great UI/UX  
+I'm currently studying Computer Science at Zetech University while building and experimenting with full-stack applications, SaaS products, APIs, and payment integrations.
 
----
+## About
 
-## 🛠️ Tech Stack
-**Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express, REST APIs  
-**Database:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Git, Vite, ESLint, Testing  
+* Based in Kenya
+* Computer Science student at Zetech University
+* Interested in full-stack development and software architecture
+* Building applications with React, Next.js, TypeScript, Node.js, and PostgreSQL
+* Interested in APIs, payment integrations, cloud deployment, and developer tools
 
----
+## Technologies
 
-## 🌟 Projects
-- 🛒 **Omnishop** – E-commerce platform with M-Pesa integration  
-- 💳 **M-Pesa STK API** – Secure payment system  
-- 👥 **Dev Platform** – Real-time developer community  
+**Languages**
+TypeScript · JavaScript · C++ · SQL
 
----
+**Frontend**
+React · Next.js · Tailwind CSS
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=alexdev-dot&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev-dot&layout=compact&theme=tokyonight)
+**Backend**
+Node.js · Express · REST APIs
 
----
+**Databases**
+PostgreSQL · MySQL · MongoDB · Supabase
 
-## 🎯 Current Focus
-- Advanced React & TypeScript  
-- Full-stack architecture  
-- API development & integrations  
+**Tools & Platforms**
+Git · GitHub · Vercel · Docker · Postman
 
----
+## Featured Projects
 
-## 🤝 Connect
-📧 alexkariuki999@.com  
-🌐 zimoratech.co.ke  
+### Wepesi POS
 
----
+A cloud-based point-of-sale system designed for Kenyan businesses, with product management, inventory, sales, receipts, reporting, staff management, and subscription functionality.
 
-⭐ *Building real-world solutions through code.*
+**Stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL
+
+### Omnishop
+
+An e-commerce platform with product management, inventory, order processing, real-time updates, and M-Pesa payment integration.
+
+**Stack:** React · Node.js · Express · Prisma · PostgreSQL · Socket.IO
+
+### M-Pesa Integrations
+
+Projects exploring Safaricom M-Pesa integrations, including STK Push and payment workflows for web applications.
+
+**Stack:** Node.js · Express · REST APIs · M-Pesa Daraja API
+
+## Currently Building
+
+* Wepesi POS — developing the production backend and multi-business architecture
+* Full-stack applications with Next.js and TypeScript
+* API integrations and payment systems
+* Improving my software engineering and system design skills
+
+## GitHub
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-dot\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev-dot\&layout=compact\&hide_border=true)
+
+## Contact
+
+**Email:** [your email]
+
+**Website:** https://zimoratech.co.ke
+
+**GitHub:** https://github.com/alexdev-dot
+
