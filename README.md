@@ -66,7 +66,7 @@ Projects exploring Safaricom M-Pesa integrations, including STK Push and payment
 
 ## Contact
 
-**Email:** [your email]
+**Email:** alexkariuki999@gmail.com
 
 **Website:** https://zimoratech.co.ke
 
