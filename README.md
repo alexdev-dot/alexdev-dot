@@ -1,74 +1,112 @@
 # Alex Kariuki
 
-**Software Developer | Full-Stack Web Development**
+### Software Developer | Full-Stack Development | Building Digital Products
 
-I build web applications and software products with a focus on practical functionality, clean interfaces, and reliable backend systems.
+I am a software developer based in Kenya, focused on designing and building practical software solutions, web applications, and digital products.
 
-I'm currently studying Computer Science at Zetech University while building and experimenting with full-stack applications, SaaS products, APIs, and payment integrations.
+My work revolves around full-stack development, application architecture, API integrations, database systems, and creating reliable user experiences.
 
-## About
+I enjoy taking ideas from concept to implementation, exploring new technologies, and building software that solves real-world problems.
 
-* Based in Kenya
-* Computer Science student at Zetech University
-* Interested in full-stack development and software architecture
-* Building applications with React, Next.js, TypeScript, Node.js, and PostgreSQL
-* Interested in APIs, payment integrations, cloud deployment, and developer tools
+---
 
-## Technologies
+## About Me
+
+-  Software Developer focused on full-stack application development.
+-  Pursuing a Diploma in Computer Science at Zetech University.
+-  Based in Kenya.
+-  Building independent software products and exploring SaaS development.
+-  Interested in software architecture, real-time systems, APIs, and cloud technologies.
+-  Continuously improving my engineering skills through practical projects.
+
+---
+
+## Technical Skills
 
 **Languages**
+ 
 TypeScript · JavaScript · C++ · SQL
 
-**Frontend**
-React · Next.js · Tailwind CSS
+**Frontend Development**
 
-**Backend**
-Node.js · Express · REST APIs
+React · Next.js · React Native · Tailwind CSS · HTML · CSS
 
-**Databases**
+**Backend Development**
+
+Node.js · Express.js · REST APIs · Socket.IO
+
+**Databases & Storage**
+
 PostgreSQL · MySQL · MongoDB · Supabase
 
 **Tools & Platforms**
-Git · GitHub · Vercel · Docker · Postman
+
+Git · GitHub · Docker · Postman · Vercel · Expo
+
+**Integrations**
+
+M-Pesa Daraja API · Authentication · SMS APIs · WebSockets · Push Notifications
+
+---
 
 ## Featured Projects
 
-### Wepesi POS
+### 1. CharChat — Real-Time Messaging Platform
 
-A cloud-based point-of-sale system designed for Kenyan businesses, with product management, inventory, sales, receipts, reporting, staff management, and subscription functionality.
+An independent messaging application project focused on building a modern communication experience for users in Kenya and the wider African market.
 
-**Stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL
+The project explores real-time messaging, authentication, user presence, media communication, and push notifications.
 
-### Omnishop
+**Technologies:** React Native · Expo · Node.js · Express · TypeScript · Supabase · WebSockets
 
-An e-commerce platform with product management, inventory, order processing, real-time updates, and M-Pesa payment integration.
+---
 
-**Stack:** React · Node.js · Express · Prisma · PostgreSQL · Socket.IO
+### 2. Zimora Cloud POS — Business Management Platform
 
-### M-Pesa Integrations
+A cloud-based point-of-sale and business management solution designed for businesses in Kenya.
 
-Projects exploring Safaricom M-Pesa integrations, including STK Push and payment workflows for web applications.
+The platform focuses on simplifying retail operations through inventory management, sales processing, receipts, reporting, staff management, and subscription functionality.
 
-**Stack:** Node.js · Express · REST APIs · M-Pesa Daraja API
+**Technologies:** Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
 
-## Currently Building
+---
 
-* Wepesi POS — developing the production backend and multi-business architecture
-* Full-stack applications with Next.js and TypeScript
-* API integrations and payment systems
-* Improving my software engineering and system design skills
+### 3. Omnishop — E-Commerce Platform
 
-## GitHub
+An e-commerce platform exploring digital retail operations, including product management, inventory, order processing, real-time updates, and payment integration.
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-dot\&show_icons=true\&hide_border=true)
+**Technologies:** React · Node.js · Express.js · Prisma · PostgreSQL · Socket.IO · M-Pesa
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev-dot\&layout=compact\&hide_border=true)
+---
 
-## Contact
+## Current Focus
 
-**Email:** alexkariuki999@gmail.com
+- Building and improving CharChat's messaging infrastructure.
+- Developing scalable full-stack applications.
+- Exploring SaaS architecture and multi-tenant systems.
+- Working with real-time communication and WebSocket technologies.
+- Integrating payment systems and third-party APIs.
+- Strengthening software engineering and system design skills.
 
-**Website:** https://zimoratech.co.ke
+---
 
-**GitHub:** https://github.com/alexdev-dot
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-dot&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev-dot&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## Let's Connect
+
+I'm always interested in connecting with developers, collaborating on interesting projects, and exploring opportunities in software development.
+
+- **Website:** [zimoratech.co.ke](https://zimoratech.co.ke)
+- **GitHub:** [github.com/alexdev-dot](https://github.com/alexdev-dot)
+- **Email:** alexkariuki999@gmail.com
+
+---
+
+*Building solutions. Learning continuously. Creating impact through technology.*
 
